@@ -1,0 +1,3 @@
+C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\Definitions.DoorSample.h
+C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Source\DoorSample\Public\DoorInteractionComponent.h
+C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Inc\DoorSample\DoorInteractionComponent.generated.h

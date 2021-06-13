@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DoorSample.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6C93D858-62F9-4323-A92B-0B2DFE09E6E2}</UniqueIdentifier>
+      <UniqueIdentifier>{9A7639B0-BB48-4EE5-83ED-E610372FB327}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DoorSample.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D938D14B-33B2-4B45-B0B6-53BF2E822FF0}</UniqueIdentifier>
+      <UniqueIdentifier>{901FF3A6-E31B-46E0-A310-CA5C69DDD25B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\DoorSample">
-      <UniqueIdentifier>{35AB7343-10D6-4E73-B837-5B1AC4C1CB09}</UniqueIdentifier>
+      <UniqueIdentifier>{F4EA2463-3507-49BE-B6F7-694E7C7F20D3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DoorSample\DoorSample.Build.cs">
       <Filter>Source\DoorSample</Filter>
@@ -40,6 +40,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\DoorSample\DoorSampleGameModeBase.h">
       <Filter>Source\DoorSample</Filter>
+    </ClInclude>
+    <Filter Include="Source\DoorSample\Private">
+      <UniqueIdentifier>{BDDE4ECC-C3E6-4E10-A367-F43E5F01756C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DoorSample\Private\DoorInteractionComponent.cpp">
+      <Filter>Source\DoorSample\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\DoorSample\Public">
+      <UniqueIdentifier>{93FB9BE2-DE62-4F22-8E78-25B27B1DBB94}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\DoorSample\Public\DoorInteractionComponent.h">
+      <Filter>Source\DoorSample\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
