@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeDoorSample_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x69788597,
+				0x6EA962AF,
 				0x676A28AA,
 				METADATA_PARAMS(nullptr, 0)
 			};

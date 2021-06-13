@@ -58,7 +58,11 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDoorInteractionComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDoorInteractionComponent)
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_13_PRIVATE_PROPERTY_OFFSET
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_13_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__DesiredRotation() { return STRUCT_OFFSET(UDoorInteractionComponent, DesiredRotation); } \
+	FORCEINLINE static uint32 __PPO__TimeToRotate() { return STRUCT_OFFSET(UDoorInteractionComponent, TimeToRotate); }
+
+
 #define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_10_PROLOG
 #define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
