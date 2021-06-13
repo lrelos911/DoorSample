@@ -784,3 +784,84 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.13-04.54.14:214][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.06.13-04.54.24:790][745]LogAssetRegistry: Asset discovery search completed in 17.6904 seconds
 [2021.06.13-04.54.24:791][745]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.06.13-05.06.10:501][468]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.13-05.06.10:519][468]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/RawData/2x1 Door and Frame.fbx)
+[2021.06.13-05.06.10:649][468]LogFbx: Loading FBX Scene from C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/RawData/2x1 Door and Frame.fbx
+[2021.06.13-05.06.10:684][468]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.13-05.07.29:372][468]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.13-05.07.29:565][468]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Mikey\Pictures\Textures\TexturesCom_Wood_Rough_1K_albedo.png
+[2021.06.13-05.07.29:573][468]LogMaterial: Display: Missing cached shader map for material Wood, compiling. 
+[2021.06.13-05.07.29:617][468]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.06.13-05.07.29:617][468]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.06.13-05.07.29:617][468]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.06.13-05.07.29:617][468]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.06.13-05.07.29:617][468]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.06.13-05.07.29:617][468]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.06.13-05.07.29:618][468]LogMaterial: Display: Missing cached shader map for material Brass, compiling. 
+[2021.06.13-05.07.29:626][468]LogFbx: Display: Triangulating static mesh Door
+[2021.06.13-05.07.29:805][468]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2021.06.13-05.07.29:805][468]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.06.13-05.07.29:805][468]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.06.13-05.07.29:805][468]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.06.13-05.07.29:805][468]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.06.13-05.07.29:805][468]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2021.06.13-05.07.30:149][468]LogStaticMesh: Building static mesh 2x1_Door_and_Frame_Door...
+[2021.06.13-05.07.30:421][468]LogStaticMesh: Built static mesh [0.27s] /Game/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
+[2021.06.13-05.07.30:653][468]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Mikey\Downloads\TexturesCom_DamagedConcrete_3x3_1K_albedo.tif
+[2021.06.13-05.07.30:653][468]LogMaterial: Display: Missing cached shader map for material Broken_Concrete, compiling. 
+[2021.06.13-05.07.30:661][468]LogFbx: Display: Triangulating static mesh Frame
+[2021.06.13-05.07.30:666][468]LogStaticMesh: Building static mesh 2x1_Door_and_Frame_Frame...
+[2021.06.13-05.07.30:671][468]LogStaticMesh: Built static mesh [0.01s] /Game/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2021.06.13-05.07.30:878][468]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.13-05.07.33:556][615]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2021.06.13-05.07.33:556][615]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2021.06.13-05.07.34:237][637]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.06.13-05.07.34:237][637]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.06.13-05.07.34:237][637]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.06.13-05.07.34:237][637]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.06.13-05.07.34:367][642]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.06.13-05.07.34:367][642]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.06.13-05.07.34:367][642]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.06.13-05.07.34:367][642]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2021.06.13-05.07.35:172][688]LogSlate: Took 0.030328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.13-05.07.36:908][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.06.13-05.07.36:909][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.007
+[2021.06.13-05.07.36:909][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2x1_Door_and_Frame_Door] ([1] browsable assets)...
+[2021.06.13-05.07.36:920][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door]
+[2021.06.13-05.07.36:920][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/2x1_Door_and_Frame_Door]
+[2021.06.13-05.07.36:937][884]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/2x1_Door_and_Frame_Door_Auto17464B55A4E8E3145091E62B8EE4F4F5F.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/Autosaves/Game/2x1_Door_and_Frame_Door_Auto1.uasset'
+[2021.06.13-05.07.36:939][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2x1_Door_and_Frame_Frame] ([1] browsable assets)...
+[2021.06.13-05.07.36:949][884]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame]
+[2021.06.13-05.07.36:949][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/2x1_Door_and_Frame_Frame]
+[2021.06.13-05.07.36:956][884]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/2x1_Door_and_Frame_Frame_Auto12E2E4F324DEE2A1183D6E9A3968BBCDC.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/Autosaves/Game/2x1_Door_and_Frame_Frame_Auto1.uasset'
+[2021.06.13-05.07.36:958][884]LogFileHelpers: Auto-saving content packages took 0.049
+[2021.06.13-05.07.43:948][564]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2021.06.13-05.07.43:949][564]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2021.06.13-05.07.47:710][947]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Door
+[2021.06.13-05.07.47:777][947]LogActorFactory: Actor Factory created 2x1_Door_and_Frame_Frame
+[2021.06.13-05.08.03:615][695]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.13-05.08.10:428][486]LogSlate: Took 0.026980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.13-05.08.47:820][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.13-05.08.51:662][306]LogSlate: Window 'Save Content' being destroyed
+[2021.06.13-05.08.51:690][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2x1_Door_and_Frame_Door" FILE="C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/2x1_Door_and_Frame_Door.uasset" SILENT=true
+[2021.06.13-05.08.51:694][306]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/2x1_Door_and_Frame_DoorFE30A28A4400FD244AB17E84BEFCBFD0.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/2x1_Door_and_Frame_Door.uasset'
+[2021.06.13-05.08.51:695][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2x1_Door_and_Frame_Frame" FILE="C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/2x1_Door_and_Frame_Frame.uasset" SILENT=true
+[2021.06.13-05.08.51:699][306]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/2x1_Door_and_Frame_FrameE719F5304AC9F3BFDBCE33BFA82C2B39.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/2x1_Door_and_Frame_Frame.uasset'
+[2021.06.13-05.08.51:710][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brass" FILE="C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Brass.uasset" SILENT=true
+[2021.06.13-05.08.51:716][306]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/BrassAF9257D34CEE78C85B72B99C31F54EDE.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Brass.uasset'
+[2021.06.13-05.08.51:727][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Broken_Concrete" FILE="C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Broken_Concrete.uasset" SILENT=true
+[2021.06.13-05.08.51:733][306]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/Broken_Concrete62F19AAC4E5219CD2475368196A6FA45.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Broken_Concrete.uasset'
+[2021.06.13-05.09.02:002][306]LogSlate: Window 'Save Level As' being destroyed
+[2021.06.13-05.09.02:026][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.13-05.09.02:030][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.13-05.09.02:051][306]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/UntitledBC2F782547B21B454D60BE87D073A506.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Untitled.umap'
+[2021.06.13-05.09.02:060][306]LogFileHelpers: Saving map 'Untitled' took 0.050
+[2021.06.13-05.09.02:070][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wood" FILE="C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Wood.uasset" SILENT=true
+[2021.06.13-05.09.02:076][306]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/WoodB8D1435B4CB3D29CDBC1BA994EA5FA1A.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Wood.uasset'
+[2021.06.13-05.09.02:087][306]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-05.09.02:087][306]LogContentValidation: Display: Validating Material /Game/Broken_Concrete.Broken_Concrete
+[2021.06.13-05.09.02:087][306]LogContentValidation: Display: Validating StaticMesh /Game/2x1_Door_and_Frame_Frame.2x1_Door_and_Frame_Frame
+[2021.06.13-05.09.02:087][306]LogContentValidation: Display: Validating Material /Game/Brass.Brass
+[2021.06.13-05.09.02:087][306]LogContentValidation: Display: Validating Material /Game/Wood.Wood
+[2021.06.13-05.09.02:087][306]LogContentValidation: Display: Validating StaticMesh /Game/2x1_Door_and_Frame_Door.2x1_Door_and_Frame_Door
+[2021.06.13-05.09.02:087][306]LogContentValidation: Display: Validating World /Game/Untitled.Untitled
