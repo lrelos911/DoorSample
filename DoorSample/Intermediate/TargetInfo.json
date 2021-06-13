@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DoorSample",
+			"Path": "C:\\Users\\Lorenzo.000\\Documents\\Unreal Projects\\DoorSample\\DoorSample\\DoorSample\\Source\\DoorSample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DoorSampleEditor",
+			"Path": "C:\\Users\\Lorenzo.000\\Documents\\Unreal Projects\\DoorSample\\DoorSample\\DoorSample\\Source\\DoorSampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
