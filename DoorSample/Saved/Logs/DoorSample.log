@@ -1455,3 +1455,128 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.13-06.11.25:111][ 65]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.13-06.11.25:111][ 65]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DoorSampleLevel_BuiltData.DoorSampleLevel_BuiltData
 [2021.06.13-06.11.25:111][ 65]LogContentValidation: Display: Validating World /Game/Maps/DoorSampleLevel.DoorSampleLevel
+[2021.06.13-06.17.54:897][852]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.13-06.17.55:820][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.13-06.17.56:380][ 19]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.13-06.17.59:876][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.06.13-06.18.00:578][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (2x1_Door_and_Frame_Door)
+[2021.06.13-06.19.13:081][867]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.06.13-06.21.31:951][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.13-06.21.31:966][357]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/DoorSampleLevel_Auto2B7FEC15047343A4664859596751EF938.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/Autosaves/Game/Maps/DoorSampleLevel_Auto2.umap'
+[2021.06.13-06.21.31:968][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DoorSampleLevel' took 0.022
+[2021.06.13-06.21.31:968][357]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2021.06.13-06.28.59:513][694]LogHotReload: New module detected: UE4Editor-DoorSample-0009.dll
+[2021.06.13-06.29.00:543][698]LogHotReload: Starting Hot-Reload from IDE
+[2021.06.13-06.29.00:580][698]LogClass: Could not find existing class DoorInteractionComponent in package /Script/DoorSample for HotReload, assuming new class
+[2021.06.13-06.29.00:584][698]LogHotReload: Re-instancing DoorInteractionComponent after hot-reload.
+[2021.06.13-06.29.00:589][698]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'DoorSample' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.06.13-06.29.00:591][698]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.06.13-06.29.00:637][698]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0151 seconds. Added 3603 classes and 862 folders.
+[2021.06.13-06.29.00:641][698]Display: HotReload took  0.1s.
+[2021.06.13-06.29.18:445][216]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-06.29.18:450][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-06.29.18:450][216]PIE: New page: PIE session: DoorSampleLevel (Jun 12, 2021, 4:29:18 PM)
+[2021.06.13-06.29.18:450][216]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoorSampleLevel
+[2021.06.13-06.29.18:453][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002730s)
+[2021.06.13-06.29.18:454][216]LogAIModule: Creating AISystem for world DoorSampleLevel
+[2021.06.13-06.29.18:454][216]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2021.06.13-06.29.18:454][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoorSampleLevel.DoorSampleLevel to /Game/Maps/UEDPIE_0_DoorSampleLevel.DoorSampleLevel (0.003987s)
+[2021.06.13-06.29.18:458][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.06.13-06.29.18:460][216]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-06.29.18:460][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-06.29.18:460][216]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-06.29.18:460][216]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-06.29.18:469][216]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-06.29.18:469][216]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-06.29.18:514][216]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.06.13-06.29.18:515][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-06.29.18:515][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-06.29.18:515][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-06.29.18:515][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-06.29.18:515][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-06.29.18:515][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-06.29.18:532][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-06.29.18:532][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-06.29.18:532][216]LogInit: FAudioDevice initialized.
+[2021.06.13-06.29.18:532][216]LogAudio: Display: Audio Device (ID: 12) registered with world 'DoorSampleLevel'.
+[2021.06.13-06.29.18:542][216]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-06.29.18:543][216]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoorSampleLevel.DoorSampleLevel up for play (max tick rate 0) at 2021.06.12-23.29.18
+[2021.06.13-06.29.18:543][216]LogWorld: Bringing up level for play took: 0.000650
+[2021.06.13-06.29.18:543][216]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.13-06.29.18:564][216]PIE: Server logged in
+[2021.06.13-06.29.18:565][216]PIE: Play in editor total start time 0.116 seconds.
+[2021.06.13-06.29.26:901][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-06.29.26:901][136]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DoorSampleLevel
+[2021.06.13-06.29.26:901][136]LogWorld: UWorld::CleanupWorld for DoorSampleLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-06.29.26:901][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-06.29.26:910][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-06.29.26:930][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-06.29.26:933][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-06.29.26:933][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-06.29.26:934][136]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-06.29.26:955][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.06.13-06.29.26:982][137]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.13-06.29.33:618][570]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-06.29.33:624][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-06.29.33:624][570]PIE: New page: PIE session: DoorSampleLevel (Jun 12, 2021, 4:29:33 PM)
+[2021.06.13-06.29.33:624][570]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DoorSampleLevel
+[2021.06.13-06.29.33:626][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002443s)
+[2021.06.13-06.29.33:627][570]LogAIModule: Creating AISystem for world DoorSampleLevel
+[2021.06.13-06.29.33:627][570]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2021.06.13-06.29.33:627][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DoorSampleLevel.DoorSampleLevel to /Game/Maps/UEDPIE_0_DoorSampleLevel.DoorSampleLevel (0.003642s)
+[2021.06.13-06.29.33:631][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.13-06.29.33:632][570]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.06.13-06.29.33:632][570]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-06.29.33:632][570]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-06.29.33:632][570]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-06.29.33:632][570]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-06.29.33:632][570]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-06.29.33:633][570]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-06.29.33:633][570]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-06.29.33:633][570]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-06.29.33:633][570]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-06.29.33:633][570]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-06.29.33:641][570]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-06.29.33:641][570]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-06.29.33:686][570]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.06.13-06.29.33:687][570]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-06.29.33:687][570]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-06.29.33:687][570]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-06.29.33:687][570]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-06.29.33:687][570]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-06.29.33:687][570]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-06.29.33:704][570]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-06.29.33:704][570]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-06.29.33:704][570]LogInit: FAudioDevice initialized.
+[2021.06.13-06.29.33:704][570]LogAudio: Display: Audio Device (ID: 13) registered with world 'DoorSampleLevel'.
+[2021.06.13-06.29.33:713][570]LogLoad: Game class is 'GameModeBase'
+[2021.06.13-06.29.33:714][570]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DoorSampleLevel.DoorSampleLevel up for play (max tick rate 0) at 2021.06.12-23.29.33
+[2021.06.13-06.29.33:714][570]LogWorld: Bringing up level for play took: 0.000671
+[2021.06.13-06.29.33:714][570]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.13-06.29.33:717][570]PIE: Server logged in
+[2021.06.13-06.29.33:717][570]PIE: Play in editor total start time 0.095 seconds.
+[2021.06.13-06.29.43:262][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-06.29.43:262][619]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DoorSampleLevel
+[2021.06.13-06.29.43:262][619]LogWorld: UWorld::CleanupWorld for DoorSampleLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-06.29.43:262][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-06.29.43:271][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-06.29.43:290][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-06.29.43:293][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-06.29.43:293][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-06.29.43:295][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-06.29.43:315][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.13-06.29.43:342][620]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.13-06.30.36:944][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.13-06.30.36:958][419]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/DoorSampleLevel6B28D562445B40200AC44183C6D72F7E.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Maps/DoorSampleLevel.umap'
+[2021.06.13-06.30.36:986][419]LogSavePackage: Moving 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Saved/DoorSampleLevel_BuiltData8A1912624019BF9150692688ECD0C88B.tmp' to 'C:/Users/Lorenzo.000/Documents/Unreal Projects/DoorSample/DoorSample/DoorSample/Content/Maps/DoorSampleLevel_BuiltData.uasset'
+[2021.06.13-06.30.36:998][419]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-06.30.36:998][419]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/DoorSampleLevel_BuiltData.DoorSampleLevel_BuiltData
+[2021.06.13-06.30.36:998][419]LogContentValidation: Display: Validating World /Game/Maps/DoorSampleLevel.DoorSampleLevel
+[2021.06.13-06.30.38:255][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
