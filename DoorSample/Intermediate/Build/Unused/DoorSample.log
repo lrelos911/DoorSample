@@ -1,22 +1,13 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample).
   Creating makefile for DoorSampleEditor (no existing makefile)
-  Parsing headers for DoorSampleEditor
-    Running UnrealHeaderTool "C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\DoorSample.uproject" "C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\DoorSampleEditor\Development\DoorSampleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Lorenzo.000\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for DoorSampleEditor in 27.4646832 seconds
   Building DoorSampleEditor...
   Using Visual Studio 2019 14.29.30037 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 10 actions with 16 processes...
-    [1/10] SharedPCH.Engine.ShadowErrors.cpp
-    [2/10] DoorSampleGameModeBase.gen.cpp
-    [3/10] DoorSample.init.gen.cpp
-    [4/10] DoorSampleGameModeBase.cpp
-    [5/10] DoorInteractionComponent.gen.cpp
-    [6/10] DoorInteractionComponent.cpp
-    [7/10] DoorSample.cpp
-    [8/10] UE4Editor-DoorSample-0010.lib
-       Creating library C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0010.lib and object C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0010.exp
-    [9/10] UE4Editor-DoorSample-0010.dll
-       Creating library C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0010.suppressed.lib and object C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0010.suppressed.exp
-    [10/10] DoorSampleEditor.target
-  Total time in Parallel executor: 39.72 seconds
-  Total execution time: 70.20 seconds
+  Building 4 actions with 16 processes...
+    [1/4] InteractableDoor.gen.cpp
+    [2/4] UE4Editor-DoorSample-0005.lib
+       Creating library C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0005.lib and object C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0005.exp
+    [3/4] UE4Editor-DoorSample-0005.dll
+       Creating library C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0005.suppressed.lib and object C:\Users\Lorenzo.000\Documents\Unreal Projects\DoorSample\DoorSample\DoorSample\Intermediate\Build\Win64\UE4Editor\Development\DoorSample\UE4Editor-DoorSample-0005.suppressed.exp
+    [4/4] DoorSampleEditor.target
+  Total time in Parallel executor: 2.70 seconds
+  Total execution time: 5.00 seconds
