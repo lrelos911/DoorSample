@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\DoorSample.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{9A7639B0-BB48-4EE5-83ED-E610372FB327}</UniqueIdentifier>
+      <UniqueIdentifier>{ACCDFDA2-B5E7-4FB1-8CA6-562E440241B9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DoorSample.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{901FF3A6-E31B-46E0-A310-CA5C69DDD25B}</UniqueIdentifier>
+      <UniqueIdentifier>{F46CECB3-DD82-48CF-AE2B-291EBD259F63}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\DoorSample">
-      <UniqueIdentifier>{F4EA2463-3507-49BE-B6F7-694E7C7F20D3}</UniqueIdentifier>
+      <UniqueIdentifier>{813812ED-80E3-4808-9F6C-1CD70DCACB44}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\DoorSample\DoorSample.Build.cs">
       <Filter>Source\DoorSample</Filter>
@@ -42,13 +42,13 @@
       <Filter>Source\DoorSample</Filter>
     </ClInclude>
     <Filter Include="Source\DoorSample\Private">
-      <UniqueIdentifier>{BDDE4ECC-C3E6-4E10-A367-F43E5F01756C}</UniqueIdentifier>
+      <UniqueIdentifier>{0160717C-1DAA-4DAC-ACD0-A76CCD8FF023}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\DoorSample\Private\DoorInteractionComponent.cpp">
       <Filter>Source\DoorSample\Private</Filter>
     </ClCompile>
     <Filter Include="Source\DoorSample\Public">
-      <UniqueIdentifier>{93FB9BE2-DE62-4F22-8E78-25B27B1DBB94}</UniqueIdentifier>
+      <UniqueIdentifier>{A36BFC80-DC31-4193-AC8D-44C92B3D5A09}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\DoorSample\Public\DoorInteractionComponent.h">
       <Filter>Source\DoorSample\Public</Filter>

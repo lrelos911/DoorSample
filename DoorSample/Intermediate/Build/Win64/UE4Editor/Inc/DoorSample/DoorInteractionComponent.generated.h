@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DOORSAMPLE_DoorInteractionComponent_generated_h
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_SPARSE_DATA
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_RPC_WRAPPERS
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_RPC_WRAPPERS_NO_PURE_DECLS
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_INCLASS_NO_PURE_DECLS \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_SPARSE_DATA
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUDoorInteractionComponent(); \
 	friend struct Z_Construct_UClass_UDoorInteractionComponent_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(UDoorInteractionComponent)
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_INCLASS \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesUDoorInteractionComponent(); \
 	friend struct Z_Construct_UClass_UDoorInteractionComponent_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UDoorInteractionComponent)
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_STANDARD_CONSTRUCTORS \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDoorInteractionComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDoorInteractionComponent) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_ENHANCED_CONSTRUCTORS \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UDoorInteractionComponent(UDoorInteractionComponent&&); \
@@ -58,33 +58,34 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDoorInteractionComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UDoorInteractionComponent)
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_PRIVATE_PROPERTY_OFFSET \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__DesiredRotation() { return STRUCT_OFFSET(UDoorInteractionComponent, DesiredRotation); } \
 	FORCEINLINE static uint32 __PPO__TimeToRotate() { return STRUCT_OFFSET(UDoorInteractionComponent, TimeToRotate); } \
-	FORCEINLINE static uint32 __PPO__TriggerBox() { return STRUCT_OFFSET(UDoorInteractionComponent, TriggerBox); }
+	FORCEINLINE static uint32 __PPO__TriggerBox() { return STRUCT_OFFSET(UDoorInteractionComponent, TriggerBox); } \
+	FORCEINLINE static uint32 __PPO__OpenCurve() { return STRUCT_OFFSET(UDoorInteractionComponent, OpenCurve); }
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_11_PROLOG
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_GENERATED_BODY_LEGACY \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_12_PROLOG
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_PRIVATE_PROPERTY_OFFSET \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_SPARSE_DATA \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_RPC_WRAPPERS \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_INCLASS \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_STANDARD_CONSTRUCTORS \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_PRIVATE_PROPERTY_OFFSET \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_SPARSE_DATA \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_INCLASS \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_GENERATED_BODY \
+#define DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_PRIVATE_PROPERTY_OFFSET \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_SPARSE_DATA \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_INCLASS_NO_PURE_DECLS \
-	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_14_ENHANCED_CONSTRUCTORS \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_PRIVATE_PROPERTY_OFFSET \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_SPARSE_DATA \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_INCLASS_NO_PURE_DECLS \
+	DoorSample_Source_DoorSample_Public_DoorInteractionComponent_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
